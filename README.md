@@ -1,15 +1,17 @@
-# **👋 Hi, wandering on github**
+# **👽️ Hi, wandering on github**
 
-## **👀 Maybe you like it too?**
+## **👀 I learn**
 
 - c programming
 - bash scripting
 - *philosophy of open source software*
-- [ubuntu](https://ubuntu.com/)+[dwm](https://dwm.suckless.orghttps://suckless.org/)+[vim](https://www.vim.org/)=💞️
 
-arch? maybe later...
+## **💚 I use**
 
+- [linux](https://ubuntu.com/)+[dwm](https://dwm.suckless.orghttps://suckless.org/)+[vim](https://www.vim.org/)=💞️
 
-📫 *If you decide to contact me: evdokimovaaa.job@gmail.com*
+when will I switch to arch?..
 
- *Pronouns: she/her*
+*Contact email: evdokimovaaa.job@gmail.com*
+
+*Pronouns: she/her*
