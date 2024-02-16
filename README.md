@@ -1,14 +1,11 @@
-# **👋 Hi, My name is Anna**
+# **👋 Hi, wandering on github**
 
-## **👀 Currently learning**
+## **👀 Maybe you like it too?**
 
 - c programming
 - bash scripting
 - *philosophy of open source software*
-
-## **💞️ Love my invincible trio**
-
-[ubuntu](https://ubuntu.com/)+[dwm](https://dwm.suckless.orghttps://suckless.org/)+[vim](https://github.com/vim/vim)
+- [ubuntu](https://ubuntu.com/)+[dwm](https://dwm.suckless.orghttps://suckless.org/)+[vim](https://www.vim.org/)=💞️
 
 arch? maybe later...
 
