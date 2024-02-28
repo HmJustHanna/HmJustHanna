@@ -6,7 +6,7 @@
 
 ## **💚 I use**
 
-- [archlinux]([https://ubuntu.com/](https://archlinux.org)
+- [archlinux]([https://ubuntu.com/](https://archlinux.org))
 - [dwm](https://dwm.suckless.orghttps://suckless.org/)
 - [vim](https://www.vim.org/)
 
