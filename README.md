@@ -2,16 +2,12 @@
 
 ## **👀 I learn**
 
-- c programming
-- bash scripting
-- *philosophy of open source software*
+- system administration
 
 ## **💚 I use**
 
-- [ubuntu](https://ubuntu.com/)
+- [archlinux]([https://ubuntu.com/](https://archlinux.org)
 - [dwm](https://dwm.suckless.orghttps://suckless.org/)
 - [vim](https://www.vim.org/)
-
-when will I switch to arch?..
 
 *Contact email: evdokimovaaa.job@gmail.com*
