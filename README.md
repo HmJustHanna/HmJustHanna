@@ -1,10 +1,10 @@
-# **👽️ Hi, wandering on github**
+# **Hi, wandering on github**
 
-## **👀 I learn**
+## **I learn**
 
 - system administration
 
-## **💚 I use**
+## **I use**
 
 - [archlinux](https://archlinux.org)
 - [dwm](https://dwm.suckless.orghttps://suckless.org/)
